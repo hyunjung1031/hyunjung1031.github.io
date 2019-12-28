@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Hyunjung Lee",
+    "label": "PhD Student",
+    "picture": "https://hyunjung1031.github.io/template/images/hlee_glacier.png",
+    "email": "hyunjung.lee@marquette.edu",
+    "phone": "(785) 218-5216",
+    "website": "https://hyunjung1031.github.io",
+    "summary": "I am a PhD student in Computational Sciences in the Department of Mathematical and Statistical Sciences at Marquette University.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "53233",
+      "city": "Milwaukee",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Wisconsin"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "hyunjung1031",
+        "url": "http://github.com/hyunjung1031"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "hyunjung1031",
+        "url": "http://linkedin.com/in/hyunjung1031"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hyunjung1031",
+        "url": "http://twitter.com/hyunjung1031"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "uncertainty quantification",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "probabilistic hazard mapping",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "parameter reduction",
       "keywords": [
       ]
     }
