@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "hyunjung1031",
-        "url": "http://github.com/hyunjung1031"
+        "url": "https://hyunjung1031.github.io"
       },
       {
         "network": "linkedin",
@@ -49,30 +49,26 @@
       ]
     }
   ],
-  "skills": [
+  "computer skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "MATLAB",
+        "Python",
+        "R",
+        "ArcGIS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
-    }
   ],
   "education": [
     {
