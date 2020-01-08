@@ -1,7 +1,6 @@
-# Technical Portfolio
+# Repositofy for Hyunjung Lee's Website
 
 This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
 
-See the quick start guide for instructions on how to tailor the template to your own needs.
-
-
+Changes were made to customize using the following references:
+- http://amymalia.github.io
